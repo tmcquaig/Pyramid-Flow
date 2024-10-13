@@ -1,6 +1,6 @@
 #random stuff and other things
-models
-
+*.mp4
+pyramid_flow_model
 # Xcode
 .DS_Store
 .idea
