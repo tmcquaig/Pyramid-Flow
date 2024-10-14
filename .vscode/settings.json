@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "pyramid_dit"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
