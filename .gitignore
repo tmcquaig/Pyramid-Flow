@@ -1,6 +1,8 @@
 #random stuff and other things
 *.mp4
 pyramid_flow_model
+.vscode
+
 # Xcode
 .DS_Store
 .idea
